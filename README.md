@@ -6,5 +6,6 @@
 
 ## Pending Tasks
 1. Create Function for authentication
-2. add Trello board to README
-3. add other contributors
+2. Add Trello board to README
+3. Add other contributors
+4. Fork the repository
